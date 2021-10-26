@@ -68,7 +68,7 @@ function Ambitions() {
 
 <br>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mateus2314/github-contribution-grid-snake.svg/blob/main/github-user-contribution.svg)
 
 <!--
 **Mateus2314/Mateus2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
