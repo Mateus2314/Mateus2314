@@ -35,7 +35,7 @@ function Ambitions() {
 <p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
 <p>👾 I'm intensifying my backend studies</p>
 <p><img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="50"> Today he works with photovoltaic system design</p>
-<p>👨‍💻 My engineer registration number(CREA-PB): 348376-2<a href="https://manucoutinho.github.io/">🔗 here.</a></p>
+<p>👨‍💻 My engineer registration number(CREA-PB): 348376-2<a ></a></p>
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
