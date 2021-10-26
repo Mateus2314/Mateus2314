@@ -31,7 +31,7 @@ function Ambitions() {
 <h3 align="left"><img src="https://media.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif" width="50">A little more about me...</h3>
 <p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
 <p>👾 I'm intensifying my backend studies.</p>
-<p> Today he works with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="40"></p>
+<p> Today I work with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="40"></p>
 <p>👨‍💻 My engineer registration number(CREA-PB): 348376-2.</p>
 
 #
@@ -68,7 +68,7 @@ function Ambitions() {
 
 <br>
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Mateus2314/Mateus2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
