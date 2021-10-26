@@ -1,4 +1,4 @@
-<h2>Hello world! I'm Mateus De La Fuente Cezar <img src="https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" width="50"></h2> 
+<h2>Hello world! <img src="https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" width="50"></h2> 
 
 ```javascript
  
@@ -17,14 +17,13 @@ const WhoAmI = {
 }
 	
  function getCurrentCity() {
-	return Paraíba_Brazil
+	return Joao_Pessoa_Brazil
   }
 	
 function Ambitions() {
-	travelToAroundTheWorld()
-	watchLiveSpocksBeardShow()
-	startWritingMyBook()
-  increaseMyPrivateLibrary
+	travelAroundTheWorld()
+	watchALiveSpocksBeardShow()
+  	growMyPersonalLibrary()
 	} 
  ```
  <img width="250" align="right" src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif">
@@ -32,7 +31,7 @@ function Ambitions() {
 <h3 align="left"><img src="https://media.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif" width="50">A little more about me...</h3>
 <p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
 <p>👾 I'm intensifying my backend studies</p>
-<p><img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="50"> Today he works with photovoltaic system design</p>
+<p> Today he works with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="50"></p>
 <p>👨‍💻 My engineer registration number(CREA-PB): 348376-2<a ></a></p>
 
 #
