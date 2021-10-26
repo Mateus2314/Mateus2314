@@ -30,9 +30,9 @@ function Ambitions() {
 
 <h3 align="left"><img src="https://media.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif" width="50">A little more about me...</h3>
 <p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
-<p>👾 I'm intensifying my backend studies</p>
-<p> Today he works with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="50"></p>
-<p>👨‍💻 My engineer registration number(CREA-PB): 348376-2<a ></a></p>
+<p>👾 I'm intensifying my backend studies.</p>
+<p> Today he works with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="40"></p>
+<p>👨‍💻 My engineer registration number(CREA-PB): 348376-2.</p>
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
