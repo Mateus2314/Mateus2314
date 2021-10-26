@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Hello world! I'm Mateus De La Fuente Cezar <img src="https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" width="50"></h2> 
 
 ```javascript
