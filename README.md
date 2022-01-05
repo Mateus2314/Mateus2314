@@ -7,7 +7,7 @@ const WhoAmI = {
   user: "Mateus_De_La_Fuente_Cezar",
   role: "backend",
   university_graduation: "Electrical_Engineering",
-  jobs: [ Indra , World Elétrica Academy ],
+  jobs: [ "Indra" , "World Elétrica Academy" ],
   current_edu: "Rocketseat",
   hobbies: [
    "Studying",
