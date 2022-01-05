@@ -6,13 +6,14 @@ const WhoAmI = {
   pronouns: "He" | "his",
   user: "Mateus_De_La_Fuente_Cezar",
   role: "backend",
-  university_graduation: "Electrical_Engineering"
+  university_graduation: "Electrical_Engineering",
+  jobs: [ Indra , World Elétrica Academy ],
   current_edu: "Rocketseat",
   hobbies: [
    "Studying",
    "Watching Animes",
    "Playing GAMES",
-   "Reading Books",],
+   "Reading Books"],
    challenge: "Develop applications that help professionals in the photovoltaic sector!"
 }
 	
