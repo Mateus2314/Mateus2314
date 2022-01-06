@@ -32,8 +32,15 @@ function Ambitions() {
 <h3 align="left"><img src="https://media.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif" width="50">A little more about me...</h3>
 <p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
 <p>👾 I'm intensifying my backend studies.</p>
-<p> Today I work with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="40"></p>
 <p>👨‍💻 My engineer registration number(CREA-PB): 348376-2.</p>
+<p>👨‍🔧 Today I work with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="30">
+</p>
+<p>💻 And I work at the power tower at Indra with
+the magik language </p>
+<p align="center" >
+	<img width="720" src="https://raw.githubusercontent.com/Mateus2314/github-contribution-grid-snake.svg/main/20220105_170254.gif"  >
+	<h4 align="center"> Rede de distribuição de energia de João Pessoa - Paraíba</h4> 
+</p>
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
