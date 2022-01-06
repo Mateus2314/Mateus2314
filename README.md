@@ -78,7 +78,7 @@ function Ambitions() {
 ##
 <h3 align="left">Listening while code:</h3>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12149075045)](https://open.spotify.com/user/12149075045)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12149075045)](https://open.spotify.com/user/12149075045)
 
 <!--
 **Mateus2314/Mateus2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
