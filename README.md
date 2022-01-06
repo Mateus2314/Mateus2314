@@ -30,13 +30,12 @@ function Ambitions() {
  <img width="250" align="right" src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif">
 
 <h3 align="left"><img src="https://media.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif" width="50">A little more about me...</h3>
-<p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
-<p>👾 I'm intensifying my backend studies.</p>
-<p>👨‍💻 My engineer registration number(CREA-PB): 348376-2.</p>
 <p>👨‍🔧 Today I work with photovoltaic system design <img src="https://media.giphy.com/media/wXPS2rOisRGJY1LuOt/giphy.gif" width="30">
+<p>💻 And I work at the power tower at Indra with the magik language </p>
+<p>🆙 I'm currently a web development student, focused on the main backend technologies. </p>
+<p>👨‍💻 My engineer registration number(CREA-PB): 348376-2.</p>
 </p>
-<p>💻 And I work at the power tower at Indra with
-the magik language </p>
+
 <p align="center" >
 	<img width="720" src="https://raw.githubusercontent.com/Mateus2314/github-contribution-grid-snake.svg/main/20220105_170254.gif"  >
 	<h4 align="center"> Rede de distribuição de energia de João Pessoa - Paraíba</h4> 
@@ -76,7 +75,10 @@ the magik language </p>
 
 <br>
 
-![Snake animation](https://github.com/Mateus2314/github-contribution-grid-snake.svg/blob/main/github-user-contribution.svg)
+##
+<h3 align="left">Listening while code:</h3>
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12149075045)](https://open.spotify.com/user/12149075045)
 
 <!--
 **Mateus2314/Mateus2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
