@@ -8,7 +8,7 @@ const WhoAmI = {
   role: "backend",
   university_graduation: "Electrical_Engineering",
   jobs: [ "Indra" , "World Elétrica Academy" ],
-  current_edu: "Rocketseat",
+  current_edu: [ "The Net Ninja ( Shaun Pelling ) " ,"cod3rcursos" ,"Rocketseat" ] ,
   hobbies: [
    "Studying",
    "Watching Animes",
