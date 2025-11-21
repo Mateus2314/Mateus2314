@@ -36,11 +36,6 @@ function Ambitions() {
 <p>👨‍💻 My engineer registration number(CREA-PB): 348376-2.</p>
 </p>
 
-<p align="center" >
-	<img width="720" src="https://raw.githubusercontent.com/Mateus2314/github-contribution-grid-snake.svg/main/20220105_170254.gif"  >
-	<h4 align="center"> Rede de distribuição de energia de João Pessoa - Paraíba</h4> 
-</p>
-
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
