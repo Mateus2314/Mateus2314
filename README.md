@@ -88,15 +88,15 @@
 
 <div align="center">
   <a href="https://github.com/Mateus2314">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mateus2314&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&border_radius=10&cache_seconds=21600" alt="GitHub stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus2314&theme=github_dark" alt="GitHub profile summary" />
   </a>
   <a href="https://github.com/Mateus2314">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus2314&layout=compact&langs_count=8&theme=github_dark&border_radius=10&cache_seconds=21600" alt="Top languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mateus2314&theme=github_dark" alt="GitHub languages summary" />
   </a>
 </div>
 
 <p align="center">
-  <sub>If cards are temporarily unavailable, refresh the page. External service may have rate limits.</sub>
+  <sub>Alternativa ao GitHub Analytics para estatísticas de perfil e linguagem. Se a imagem não carregar, recarregue a página.</sub>
 </p>
 
 ---
